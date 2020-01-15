@@ -151,5 +151,5 @@ function startClock() {
 
 $( document ).ready(function() {
     startClock();
-    getIpSdnNodes();
+    // getIpSdnNodes();
 } );
